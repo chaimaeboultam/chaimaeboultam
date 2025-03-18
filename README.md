@@ -1,4 +1,4 @@
-# 🌸 Chaimae Boultam  
+# Hi there🌸, I am Chaimae Boultam  
 
 **💻 Software Engineer | 💡 Tech Enthusiast | 🚀 Always Learning**  
 
