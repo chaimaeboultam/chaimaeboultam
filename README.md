@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🌸 Chaimae Boultam  
 
-<!--
-**chaimaeboultam/chaimaeboultam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Software Engineer | 💡 Tech Enthusiast | 🚀 Always Learning**  
 
-Here are some ideas to get you started:
+👩‍💻 **Currently exploring**: Spring Boot, MERN Stack 
+✨ **Ask me about**: Java, Spring, Python, JavaScript, MongoDB, Linux, PHP, Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌷 **Passionate about**:  
+- Building smart and efficient solutions 💡  
+- Exploring AI & Machine Learning 🤖  
+- Continuous learning & self-growth 📚  
+
+📫 **Let's connect!**  
+💌 Email: [chaimaeboultam2002@gmail.com](mailto:chaimaeboultam2002@gmail.com)  
+💖 **Fun fact**: Hot Chocolate, code, and creativity fuel my days! ☕💻✨  
