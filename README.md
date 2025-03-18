@@ -3,6 +3,7 @@
 **💻 Software Engineer | 💡 Tech Enthusiast | 🚀 Always Learning**  
 
 👩‍💻 **Currently exploring**: Spring Boot, MERN Stack 
+
 ✨ **Ask me about**: Java, Spring, Python, JavaScript, MongoDB, Linux, PHP, Machine Learning  
 
 🌷 **Passionate about**:  
